@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="media/pikachuser.jpg" alt="Pepe" width="170" />
+<img src="media/pikachuser.jpg" alt="pikachu" width="170" />
 
 # Bosco Bot
 <p align="center">
