@@ -377,7 +377,7 @@ module.exports = pikachubo = async (pikachubo, mek) => {
 			               "groupJid": "6288213840883-1616169743@g.us",
 			               "inviteCode": "mememteeeekkeke",
 			               "groupName": ".bot", 
-                           "caption": ',𝙎𝙏𝘼𝙏𝙐𝙎 𝙂𝙍𝙊𝙐𝙋 𝄠⃟⃝ۣۜ🦋᪵᪼𝘽͢𝙀𝘼𝙐𝙏𝙄𝙁͢𝙐𝙇٭ۣۜ𝙈𝙀𝘿͢𝙄𝘼᪼🕊️⃟⃝ۣۜ𝄠`, 
+                           "caption":𝙎𝙏𝘼𝙏𝙐𝙎 𝙂𝙍𝙊𝙐𝙋𝄠⃟⃝ۣۜ🦋᪵᪼𝘽͢𝙀𝘼𝙐𝙏𝙄𝙁͢𝙐𝙇٭ۣۜ𝙈𝙀𝘿͢𝙄𝘼᪼🕊️⃟⃝ۣۜ𝄠`, 
                            'jpegThumbnail': fs.readFileSync(`ds.jpg`)
 		                }
 	               }
