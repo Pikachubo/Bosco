@@ -1,4 +1,4 @@
-#### NO MORE UPDATES IN BOSCO ...COMING WITH A NEW BOT SOON🙂💖
+#### NO MORE UPDATES IN Pikachu ...COMING WITH A NEW BOT SOON🙂💖
 #### HOW TO DEPLOY ??
 
 
@@ -7,9 +7,9 @@
 
 
 <div align="center">
-<img src="media/pikachuser.jpg" alt="pikachu" width="170" />
+<img src="media/IMG-20220319-WA0001.jpg" alt="pikachu" width="170" />
 
-# Bosco Bot
+# Pikachu Bot
 <p align="center">
  <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
@@ -17,25 +17,25 @@
 </p>
 
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Pikachu Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
+  <a href="https://github.com/pepesir/Pikachu#requirements">Requirements</a> •
+  <a href="https://github.com/pepesir/Pikachu#simple-method">Installation</a> •
   <a href="">Thanks to</a>
 </p>
 </div>
 
 
 ---
-https://github.com/pepesir/Bosco#thanks-to
+https://github.com/pepesir/Pikachu#thanks-to
 ### `SIMPLE METHOD`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/Bosco/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/Pikachu/)
 
 ### `ADD BUILDPACK`
 
@@ -52,7 +52,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ### `FOR TERMUX`
 
 * Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* First fork this repo and change session in <a href="https://github.com/pepesir/Pikachu/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE TO CLONE YOUR FORKED REPO , NOT MINE REPO !!
 
 
@@ -67,10 +67,10 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/pepesir/Pikachu.git 
 ```
 ```
-cd Bosco
+cd Pikachu
 ```
 ```
 bash install.sh
