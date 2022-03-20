@@ -1,5 +1,5 @@
 #### NO MORE UPDATES IN BOSCO ...COMING WITH A NEW BOT SOON🙂💖
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+#### HOW TO DEPLOY ??
 
 
 <div align="center">
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="media/boscoimg.jpg" alt="Pepe" width="170" />
+<img src="media/pikachuser.jpg" alt="Pepe" width="170" />
 
 # Bosco Bot
 <p align="center">
@@ -24,13 +24,13 @@
 <p align="center">
   <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
   <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="">Thanks to</a>
 </p>
 </div>
 
 
 ---
-
+https://github.com/pepesir/Bosco#thanks-to
 ### `SIMPLE METHOD`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
