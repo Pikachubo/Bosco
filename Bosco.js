@@ -203,10 +203,10 @@ module.exports = bosco = async (bosco, mek) => {
         const q = args.join(' ')
         const c = args.join(' ')
 
-        const botNumber = bosco.user.jid
-        const ownerNumber = setting.ownerNumber
-		const ownerName = setting.ownerName
-		const botName = setting.botName
+        const botNumber = pikachu.user.jid
+        const ownerNumber = setting.ownerNumber 917034403952
+		const ownerName = setting.ownerName ★͡ᤢ⃟𝄟⃝🎀𝐏͢𝚰𝚱𝚨𝐂͢𝐇𝐔★͡ᤢ⃟𝄟⃝★
+		const botName = setting.botName ★͡ᤢ⃟𝄟⃝🎀𝐏͢𝚰𝚱𝚨𝐂͢𝐇𝐔★͡ᤢ⃟𝄟⃝★
 		const isGroup = from.endsWith('@g.us')
 		const sender = mek.key.fromMe ? bosco.user.jid : mek.key.remoteJid.endsWith('@g.us') ? mek.participant : mek.key.remoteJid
 		const totalchat = await bosco.chats.all()
@@ -258,18 +258,18 @@ module.exports = bosco = async (bosco, mek) => {
         selectedButton = (type == 'buttonsResponseMessage') ? mek.message.buttonsResponseMessage.selectedButtonId : ''
 
         responseButton = (type == 'listResponseMessage') ? mek.message.listResponseMessage.title : ''
-        
+       
         if (antibot === true) return
 		const catl = (teks) => {
-             res = bosco.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 400, "message": teks, "footerText": "*Pepe Ser*", "thumbnail": dfrply, "surface": 'CATALOG' }}, {quoted:ftrol})
+             res = bosco.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 400, "message": teks, "footerText": "*pikachu Ser*", "thumbnail": dfrply, "surface": 'CATALOG' }}, {quoted:ftrol})
              bosco.relayWAMessage(res)
         }
        const catlo = (teks) => {
-             res = bosco.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 70000, "message": teks, "footerText": "Made With Pepe", thumbnail: fs.readFileSync('./ds.jpg'), "surface": 'CATALOG' }}, {quoted:ftroli})
+             res = bosco.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 70000, "message": teks, "footerText": "Made With pikachu", thumbnail: fs.readFileSync('./ds.jpg'), "surface": 'CATALOG' }}, {quoted:ftroli})
              bosco.relayWAMessage(res)
         }
         const grupinv = (teks) => {
-        	grup = bosco.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m', "groupName": `Bosco Family`, "footerText": "*Pepe Ser*", "jpegThumbnail": dfrply, "caption": teks}}, {quoted:fvideo})
+        	grup = bosco.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": ''𝑴𝑨𝑮𝑰𝑪 𝑺𝑷𝑬𝑳𝑳', ', "groupName": `bot Family`, "footerText": "*pikachu Ser*", "jpegThumbnail": dfrply, "caption": teks}}, {quoted:fvideo})
             bosco.relayWAMessage(grup)
         }
         try {
@@ -292,7 +292,7 @@ module.exports = bosco = async (bosco, mek) => {
             return Math.floor(Math.random() * angka) + 1
         }
         const reply = (teks) => {
-	      bosco.sendMessage(from, teks, text, { thumbnail: denis, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: false, "externalAdReply": { "title": `${' '}Sᴜʙsᴄʀɪʙᴇ Yᴛ : PEPE SIR${''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}},})
+	      bosco.sendMessage(from, teks, text, { thumbnail: denis, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: false, "externalAdReply": { "title": `${' '}𖠗 ⃝⃕𝐵͢𝐸𝐴𝑈͢𝑇𝐼𝐹𝑈͢𝐿 𝑀𝐸͢𝐷𝐼𝐴𖠗 ⃝⃕🌸᭄''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}},})
         }
         const sendMess = (hehe, teks) => {
            bosco.sendMessage(hehe, teks, text)
