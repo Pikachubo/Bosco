@@ -312,7 +312,7 @@ module.exports = pikachubo = async (pikachubo, mek) => {
                 quoted: {
                     key: {
                         fromMe: false,
-                        participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
+                        participant: 0@s.whatsapp.net, ...(from ? { remoteJid: "status@broadcast" } : {})
                     },
                     message: {
                         "imageMessage": {
@@ -342,7 +342,7 @@ module.exports = pikachubo = async (pikachubo, mek) => {
                 quoted: {
                     key: {
                         fromMe: false,
-                        participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6289523258649-1604595598@g.us" } : {})
+                        participant: 0@s.whatsapp.net, ...(from ? { remoteJid: "6289523258649-1604595598@g.us" } : {})
                     },
                     message: {
                         "imageMessage": {
@@ -377,7 +377,7 @@ module.exports = pikachubo = async (pikachubo, mek) => {
 			               "groupJid": "6288213840883-1616169743@g.us",
 			               "inviteCode": "mememteeeekkeke",
 			               "groupName": ".bot", 
-                            "caption": 𝑪𝑴𝑫 𝑬𝑿𝑪𝑳𝑼𝑫𝑬𝑫 : \n 𝑵𝑬𝑾 𝑭𝑬𝑼𝑻𝑬𝑹𝑺 𝑨𝑫𝑫𝑬𝑫 \n 𝑴𝑨𝑫𝑬 𝑩𝒀 ꪶ❮❮🦋𝝦𝝞𝝟𝝠𝗖𝝜𝗨🦋〄ꪾ⸙,
+                           "caption": 𝑪𝑴𝑫 𝑬𝑿𝑪𝑳𝑼𝑫𝑬𝑫 : \n 𝑵𝑬𝑾 𝑭𝑬𝑼𝑻𝑬𝑹𝑺 𝑨𝑫𝑫𝑬𝑫 \n 𝑴𝑨𝑫𝑬 𝑩𝒀 ꪶ❮❮🦋𝝦𝝞𝝟𝝠𝗖𝝜𝗨🦋〄ꪾ⸙,
                            'jpegThumbnail': fs.readFileSync(`ds.jpg`)
 		                }
 	               }
